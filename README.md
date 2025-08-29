@@ -5,7 +5,7 @@
 🌱 &nbsp; Currently learning more about Machine Learning, systems programming, Next.js, and React Native
 🚀 &nbsp; Working on: Python script to automate and streamline the research article screening process for a systematic literature review
 
-### 🔧 Tech Stack
+### 🔧 Technical Skills
 - **Languages**: Python, C++, JavaScript, TypeScript, SQL, HTML, CSS
 - **Frameworks & Tools**: ReactJS, React Native, Flask, Firebase, Git, Node.js, Express, MongoDB
 - **Machine Learning & Data Science**: TensorFlow, scikit-learn, pandas, NumPy, Matplotlib 
