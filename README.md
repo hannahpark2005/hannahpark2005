@@ -12,7 +12,7 @@
 
 ### 📫 Let’s Connect
 - Email: hspark1@uchicago.edu 
-- LinkedIn: [linkedin.com/in/sunghyun-park](#)  
+- LinkedIn: [linkedin.com/in/sunghyun-park](https://www.linkedin.com/in/sunghyun-park/)  
 <!-- - Personal Website/Portfolio: [LINK](#)   -->
 
 <!--
