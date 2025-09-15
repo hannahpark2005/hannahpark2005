@@ -6,7 +6,7 @@
 🚀 &nbsp; Working on: Python script to automate and streamline the research article screening process for a systematic literature review
 
 ### 🔧 Technical Skills
-- **Languages**:  
+**Languages**:  
 <img src = "https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=C++&logoColor=white">
 <img src = "https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -15,7 +15,7 @@
 <img src = "https://img.shields.io/badge/HTML-F24E1E?style=for-the-badge&logo=HTML&logoColor=white">
 <img src = "https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
 
-- **Frameworks & Tools**:  
+**Frameworks & Tools**:  
 <img src = "https://img.shields.io/badge/ReactJS-61dbfb?style=for-the-badge&logo=React&logoColor=white">
 <img src = "https://img.shields.io/badge/React Native-3178c6?style=for-the-badge&logo=React&logoColor=white">
 <img src = "https://img.shields.io/badge/Flask-00008B?style=for-the-badge&logo=Flask&logoColor=white">
@@ -27,7 +27,7 @@
 <img src = "https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
-- **Machine Learning & Data Science**:  
+**Machine Learning & Data Science**:  
 <img src = "https://img.shields.io/badge/TensorFlow-FFA800?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src = "https://img.shields.io/badge/scikit--learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src = "https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
