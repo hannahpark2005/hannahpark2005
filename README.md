@@ -3,7 +3,8 @@
 🎓 &nbsp; Computer Science student @ University of Chicago (Class of 2029)  
 💡 &nbsp; Interests: AI for good, conservation/environmental technology, and social impact applications  
 🌱 &nbsp; Currently learning more about Machine Learning, systems programming, Next.js, and React Native  
-🚀 &nbsp; Working on: Python and Natural Language Processing pipelines to automate the research article screening process for a systematic literature review, identify AI methodologies and geographic regions, and build a curated dataset for ML and biodiversity researchers.
+💻 &nbsp; Full-stack web development, Python/JavaScript, data preprocessing, NLP, machine learning, and applied ML projects including sentiment analysis, audio classification, and image classification.
+🚀 &nbsp; Most recently worked on: Python and Natural Language Processing pipelines to automate the research article screening process for a systematic literature review, identify AI methodologies and geographic regions, and build a curated dataset for ML and biodiversity researchers.
 
 ### 🔧 Technical Skills
 **Languages**:  
